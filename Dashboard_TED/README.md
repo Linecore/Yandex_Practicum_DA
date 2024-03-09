@@ -1,6 +1,6 @@
 # Дашборд конференций TED
 
-["Ted events history" by Daniel Crown](#https://public.tableau.com/app/profile/daniel.crown/viz/Tedeventshistory/TED)
+["Ted events history" by Daniel Crown](https://public.tableau.com/app/profile/daniel.crown/viz/Tedeventshistory/TED)
 
 ## О проекте
 **Цели и задачи:** создать интрактивный дашборд-презентацию со слайдами "История выступлений", "Тематики выступлений", "Авторы выступлений". Создать слайд на свободную тему.
